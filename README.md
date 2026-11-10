@@ -38,3 +38,30 @@ formatowanie kolumny Status
 dobry screen na zakonczenie etapu pierwszego
 <img width="455" height="756" alt="image" src="https://github.com/user-attachments/assets/3c27005d-b64d-45ed-9a80-db292ee521fd" />
 
+
+ETAP 2
+<img width="1030" height="833" alt="image" src="https://github.com/user-attachments/assets/2555b87b-dc3a-4674-bc88-2a2d02a72a27" />
+<img width="1117" height="296" alt="image" src="https://github.com/user-attachments/assets/6c5a0a5c-17cd-48c5-b488-8f01be8fbb11" />
+<img width="1113" height="302" alt="image" src="https://github.com/user-attachments/assets/cbac86fb-c443-4c4e-8320-7bf5536f4752" />
+<img width="702" height="342" alt="image" src="https://github.com/user-attachments/assets/3e0ddea9-7b44-412e-8fae-ab20343e2b41" />
+<img width="761" height="306" alt="image" src="https://github.com/user-attachments/assets/9ebfc5c7-5473-49f6-bd7f-9afb01598692" />
+
+2
+<img width="1120" height="616" alt="image" src="https://github.com/user-attachments/assets/1255589a-af73-4798-92ee-ef05abe89d43" />
+<img width="1056" height="671" alt="image" src="https://github.com/user-attachments/assets/6175969a-64ae-4fcb-accd-0793e1f2cec9" />
+<img width="822" height="646" alt="image" src="https://github.com/user-attachments/assets/dc6cc621-eeb1-4848-929c-6c615385891a" />
+<img width="1092" height="875" alt="image" src="https://github.com/user-attachments/assets/31ae2ac4-4fd6-4d4c-92f4-67a3637effac" />
+<img width="487" height="708" alt="image" src="https://github.com/user-attachments/assets/791c33f1-2efa-46ce-9f34-3105ac76d61c" />
+<img width="797" height="921" alt="image" src="https://github.com/user-attachments/assets/d2a966dd-a99f-4632-9a6d-63b02a76aeaa" />
+
+<img width="846" height="688" alt="image" src="https://github.com/user-attachments/assets/365cb1f0-687f-474e-b169-b66f9edbd01b" />
+<img width="1213" height="633" alt="image" src="https://github.com/user-attachments/assets/c0af2f2f-077e-4644-9044-452d6dbdf60c" />
+<img width="1398" height="732" alt="image" src="https://github.com/user-attachments/assets/959141ea-0c8e-4956-ae26-3be64289e288" />
+<img width="1247" height="752" alt="image" src="https://github.com/user-attachments/assets/a83dbe82-7859-43cd-b923-2c6c6862d2d1" />
+
+
+
+
+
+
+
