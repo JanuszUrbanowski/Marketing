@@ -58,7 +58,13 @@ ETAP 2
 <img width="1213" height="633" alt="image" src="https://github.com/user-attachments/assets/c0af2f2f-077e-4644-9044-452d6dbdf60c" />
 <img width="1398" height="732" alt="image" src="https://github.com/user-attachments/assets/959141ea-0c8e-4956-ae26-3be64289e288" />
 <img width="1247" height="752" alt="image" src="https://github.com/user-attachments/assets/a83dbe82-7859-43cd-b923-2c6c6862d2d1" />
-
+<img width="1215" height="635" alt="image" src="https://github.com/user-attachments/assets/61c048fc-49db-467d-aa55-e66570ffa250" />
+<img width="1166" height="695" alt="image" src="https://github.com/user-attachments/assets/6c1364d8-9ff4-4d20-835d-4914a0d63170" />
+<img width="1352" height="695" alt="image" src="https://github.com/user-attachments/assets/7b005e15-7d64-4b93-bbbd-b40d4af472e6" />
+<img width="1090" height="385" alt="image" src="https://github.com/user-attachments/assets/13e2cfba-9be6-452e-93c1-3741aa42d491" />
+<img width="1916" height="857" alt="image" src="https://github.com/user-attachments/assets/d841e63c-0003-40dd-9ad2-cfdcdb1afa96" />
+<img width="1360" height="591" alt="image" src="https://github.com/user-attachments/assets/058b1462-33bd-43f7-891c-3a4d9caeace9" />
+<img width="1711" height="377" alt="image" src="https://github.com/user-attachments/assets/664202e9-cbfa-4aa5-bdf5-19e001295326" />
 
 
 
