@@ -65,6 +65,10 @@ ETAP 2
 <img width="1916" height="857" alt="image" src="https://github.com/user-attachments/assets/d841e63c-0003-40dd-9ad2-cfdcdb1afa96" />
 <img width="1360" height="591" alt="image" src="https://github.com/user-attachments/assets/058b1462-33bd-43f7-891c-3a4d9caeace9" />
 <img width="1711" height="377" alt="image" src="https://github.com/user-attachments/assets/664202e9-cbfa-4aa5-bdf5-19e001295326" />
+<img width="1345" height="637" alt="image" src="https://github.com/user-attachments/assets/a8e3e3fc-5f53-48d2-8018-47eeb9fe5893" />
+<img width="1590" height="677" alt="image" src="https://github.com/user-attachments/assets/a63d3fb6-3b50-49e3-b02a-2abeab00c40f" />
+<img width="832" height="406" alt="image" src="https://github.com/user-attachments/assets/ae095c17-af93-40dd-8297-1305d261a901" />
+
 
 
 
